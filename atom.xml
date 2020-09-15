@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">iSciiLife</title>
     <subtitle type="html">爱生活，爱学习</subtitle>
-    <updated>2020-09-15T09:59:26&#43;08:00</updated>
+    <updated>2020-09-15T10:12:58&#43;08:00</updated>
     <id>https://laode007.github.io/</id>
     <link rel="alternate" type="text/html" href="https://laode007.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://laode007.github.io/atom.xml" />
@@ -16,4 +16,39 @@
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     <generator uri="https://gohugo.io/" version="0.74.3">Hugo</generator>
+        <entry>
+            <title type="text">Hellow</title>
+            <link rel="alternate" type="text/html" href="https://laode007.github.io/life/hello/" />
+            <id>https://laode007.github.io/life/hello/</id>
+            <updated>2020-09-15T10:10:57&#43;08:00</updated>
+            <published>2020-09-14T21:22:26&#43;08:00</published>
+            <author>
+                    <name>呆</name>
+                    <uri>http://localhost:1313/</uri>
+                    <email>358905752@qq.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">Hello My life</summary>
+            
+            
+            
+                
+                
+                
+                    
+                    
+                    
+                        
+                            <category scheme="https://laode007.github.io/life/" term="life\" label="life\" />
+                        
+                    
+                
+            
+            
+            
+                
+                    
+                
+            
+        </entry>
+    
 </feed>

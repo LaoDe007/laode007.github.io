@@ -23,10 +23,43 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Tue, 15 Sep 2020 09:59:26 &#43;0800</lastBuildDate>
+        <lastBuildDate>Tue, 15 Sep 2020 10:12:58 &#43;0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://laode007.github.io/rss.xml" />
         
+        
+            <item>
+                <title>Hellow</title>
+                <link>https://laode007.github.io/life/hello/</link>
+                <guid isPermaLink="true">https://laode007.github.io/life/hello/</guid>
+                <pubDate>Mon, 14 Sep 2020 21:22:26 &#43;0800</pubDate>
+                
+                    <author>358905752@qq.com (呆)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+                <description>Hello My life</description>
+                
+                
+                
+                    
+                    
+                    
+                        
+                        
+                        
+                            
+                                <category domain="https://laode007.github.io/life/">life\</category>
+                            
+                        
+                    
+                
+                
+                
+                    
+                        
+                    
+                
+            </item>
         
     </channel>
 </rss>
